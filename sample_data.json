@@ -1,0 +1,7 @@
+[ 
+    {"id": 1, "name": "Alice Weber", "email": "alice@example.com", "phone": "+49 89 1234567", "price": 299.99, "country": "DE"}, 
+    {"id": 2, "name": "", "email": "bob_at_example.com", "phone": "not-a-phone", "price": -50.00, "country": "XX"}, 
+    {"id": 3, "name": "Carol M.", "email": null, "phone": "+1 800 555 0199", "price": 99.99, "country": "US"}, 
+    {"id": 4, "name": "David Chen", "email": "david@dqc.ai", "phone": "+86 10 87654321", "price": 9999.99, "country": "CN"}, 
+    {"id": 5, "name": "Eva Müller", "email": "eva@", "phone": "+49 30 9876543", "price": 149.00, "country": "DE"} 
+]
